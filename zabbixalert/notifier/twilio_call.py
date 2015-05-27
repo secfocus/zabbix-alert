@@ -1,4 +1,4 @@
-__author__ = 'pengyao'
+__author__ = 'wanglijie'
 
 from urllib import urlencode
 from zabbixalert.notifier import BaseNotifier

@@ -6,7 +6,7 @@ email:
 
 redmine:
   url: http://redmine.example.com
-  user: pengyao
+  user: user
   key: 1f2u3c4k5g6f7w
   project: zabbix-alert
 

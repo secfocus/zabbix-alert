@@ -60,7 +60,7 @@ Send notification to Redmine issue for track problem.
 
   redmine:
     url: http://redmine.example.com  # redmine url
-    user: pengyao                    # redmine user
+    user: user                       # redmine user
     key: 1f2u3c4k5g6f7w              # redmine api key for this user
     project: zabbix-alert            # redmine project name
 
@@ -98,4 +98,4 @@ Send notification to Twilio Voice Call
 
 .. code-block:: bash
 
-  ./twilio_call.py "8613123456789" "这是一个测试" ""
+  ./twilio_call.py "8613123456789" "杩欐槸涓�涓祴璇�" ""
